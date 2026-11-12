@@ -9,6 +9,10 @@ Agent skills for analyzing funnels, errors, friction and session replays in Quan
 - `session-review`: explains what a user experienced in one or more sessions
 - `session-reader` (agent): reads one long session and returns only the answer
 
+## Support
+
+support@quantummetric.com, or the [Quantum Metric support portal](https://thequad.quantummetric.com/).
+
 ## Privacy
 
 [Quantum Metric Privacy Policy](https://www.quantummetric.com/legal/privacy-policy)
